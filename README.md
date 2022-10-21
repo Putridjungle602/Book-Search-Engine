@@ -19,23 +19,11 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 
 
 
-# Snapshot
-
-[![Book Search](images/BookSearchDemo.png)]
-
-
-
-
 # Table of Contents 
 * [Summary](#Summary)
 * [Tools Used](#Tools)
 * [Snapshot](#Snapshot)
 * [Installation & Database SetUp](#Installation)
-* [Heroku](#Heroku)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
 
 # Installation & Database SetUp
 * To use this app npm init has to be called to create your package.json file.
@@ -44,11 +32,4 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 * Run "npm start" for the port to start listening with mongoose.
 * This app is deployed on Heroku
 
-
-
-
-# Heroku
-
-
-(https://book-search-challenge-21-mern.herokuapp.com/)
 
